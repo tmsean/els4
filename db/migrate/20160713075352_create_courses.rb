@@ -8,3 +8,4 @@ class CreateCourses < ActiveRecord::Migration
     end
   end
 end
+

@@ -7,3 +7,4 @@ class CreateResults < ActiveRecord::Migration
     end
   end
 end
+

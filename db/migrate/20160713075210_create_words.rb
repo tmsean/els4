@@ -9,3 +9,4 @@ class CreateWords < ActiveRecord::Migration
     end
   end
 end
+
