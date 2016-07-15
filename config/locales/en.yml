@@ -20,4 +20,18 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  about: "About"
+  contact: "Contact"
+  contentAbout: "This is the about page."
+  contentContact: "This is the contact page."
+  contentHelp: "This is the help page."
+  contentHome: "This is our home page."
+  help: "Help"
+  home: "Home"
+  login: "Log in"
+  logo: "E-Learning"
+  settings: "Settings"
+  signup: "Sign up now!"
+  title: "Project 1"
+  users: "Users"
+  welcome: "Welcome to Project 1"
